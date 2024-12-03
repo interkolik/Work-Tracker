@@ -1,5 +1,6 @@
 # Work-Tracker
 Overview
+
 Work-Tracker is a Python script designed to track work time between the inputs "start" and "stop". After tracking, it asks for a job name and the number of tasks completed, then logs this information.
 
 Features
